@@ -1,4 +1,4 @@
 streamlit
 geopy
 numpy
-pandas
+scikit-learn
