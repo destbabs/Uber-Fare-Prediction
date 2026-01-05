@@ -1,7 +1,5 @@
 streamlit
-pandas
-scikit-learn
-numpy
-matplotlib
-seaborn
 pickle
+geopy
+numpy
+pandas
